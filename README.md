@@ -1,22 +1,18 @@
 # NancalaStarry
-[![Followers](https://bilistats.lonelyion.com/followers?uid=262366744 "Bilibili Fans")](https://space.bilibili.com/262366744)
+[![bilibili fans](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D262366744&query=data.follower&style=flat&logo=bilibili&logoColor=white&label=bilibili%20fans&labelColor=%23F37671&color=%23F37571)](https://space.bilibili.com/262366744)
+## Almarë👋
 
-## Mae govannen👋
 
-I’m from China, where I made friends with a powerful and glorious **dragon**! _(This is real, **not a lizard or human or something else**. I swear.)_  
-And now we still have a good time with each other. *owo*
+Hi! I’m from China, and I’m lucky enough to be friends with a real, powerful, and magnificent dragon — yes, an actual dragon, not a lizard or a human in disguise. I promise! We still spend great times together. owo
 
-I have played Minecraft for over ten years, so yeah, definitely love this game pretty much.  
+I’ve been playing Minecraft for over ten years now, so it’s safe to say I absolutely love the game.
 
-I like providing Minecraft mods with Chinese translations for free.📜  
-And Don't worry, I'll do it wholeheartedly. Translation is a wonderful thing!❤️
+I enjoy translating Minecraft mods into Chinese — completely for free, and always with my full heart. To me, translation is a beautiful thing. ❤️
 
-And I help lots of people to solve the crash hidden deep under Minecraft.   
-I also posted quite a few crash solution articles on Bilibili.  
-Of course it won't be charged, helping others is also a wonderful thing~ :3
+I also enjoy helping people figure out those deep, hidden crashes in Minecraft. I’ve shared quite a few crash-solving guides on Bilibili over the years📜. I never charge for it — helping others is also something truly wonderful. :3
 
-_Friendship is magic_ is the best animation!  
+_Friendship is magic_ is the best animated show ever!
 
-Currently I have a wish to develop a game🕹️. Hopefully I can make it.  
+Right now, I’m dreaming of creating my own game one day🕹️. Hopefully, I can make it happen. 
 
 ## <center>✨Nai elen siluva lyenna!✨</center>
