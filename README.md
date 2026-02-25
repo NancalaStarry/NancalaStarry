@@ -2,8 +2,9 @@
 [![bilibili fans](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D262366744&query=data.follower&style=flat&logo=bilibili&logoColor=white&label=bilibili%20fans&labelColor=%23F37671&color=%23F37571)](https://space.bilibili.com/262366744)
 ## Almarë👋
 
+Hi! I’m a normal student from China. (I’m starting to suspect this ‘student’ thing is a lifetime subscription — there's just so much to learn in this world!)
 
-Hi! I’m from China, and I’m lucky enough to be friends with a real, powerful, and magnificent dragon — yes, an actual dragon, not a lizard or a human in disguise. I promise! We still spend great times together. owo
+I’m lucky enough to be friends with a real, powerful, and magnificent dragon — yes, an actual dragon, not a lizard or a human in disguise. I promise! We still spend great times together. owo
 
 I’ve been playing Minecraft for over ten years now, so it’s safe to say I absolutely love the game.
 
