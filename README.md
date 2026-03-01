@@ -12,6 +12,8 @@ I enjoy translating Minecraft mods into Chinese — completely for free, and alw
 
 I also enjoy helping people figure out those deep, hidden crashes in Minecraft. I’ve shared quite a few crash-solving guides on Bilibili over the years📜. I never charge for it — helping others is also something truly wonderful. :3
 
+Well, my imagination definitely outpaces my coding skills. I know that could hold me back creatively, but I'm going to work hard to make sure that doesn't happen!
+
 _Friendship is magic_ is the best animated show ever!
 
 Right now, I’m dreaming of creating my own game one day🕹️. Hopefully, I can make it happen. 
